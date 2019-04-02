@@ -1,6 +1,6 @@
 ## Clone the project
-1. Run `git clone https://github.com/Babadzhanov/verve-project.git`
-2. Go into folder -> `cd verve-project`
+1. Run `git clone https://github.com/Babadzhanov/verve-search-project.git`
+2. Go into folder -> `cd verve-search-project`
 3. Run `npm install`
 4. Run `npm start` <br>
 Runs the app in the development mode. <br>
