@@ -14,7 +14,7 @@ class Navbar extends Component {
   }
 
   componentDidMount() {
-    // Populate JSON data from a local file using AJAX call onces the component mounts
+    // Populate JSON data from a local file using AJAX call once the component mounts
     import("../../data/test.json").then(
       result => {
         this.setState({
